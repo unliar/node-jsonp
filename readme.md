@@ -1,6 +1,8 @@
 # 用于解析jsonp数据或者直接从接口获取解析后的jsonp数据
+> demo.js有完整的代码
 
 ## 解析jsonp数据
+
 ```
 const parser = require("node-fetch-jsonp").parseJSONP
 
@@ -11,6 +13,7 @@ console.log(data)
 ```
 
 ## 从接口获取jsonp数据
+
 ```
 const getJSONP = require("node-fetch-jsonp").getJSONP
 

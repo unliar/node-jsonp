@@ -1,6 +1,6 @@
 {
   "name": "node-fetch-jsonp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "用于解析或者直接从接口获取jsonp数据--nodejs parse jsonp data",
   "main": "index.js",
   "scripts": {
