@@ -1,0 +1,35 @@
+{
+  "name": "nodejsonp",
+  "version": "1.0.0",
+  "description": "nodejs parse jsonp data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "node",
+    "jsonp",
+    "nodejsonp"
+  ],
+  "author": "unliar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "homepage": "https://github.com/unliar/node-jsonp",
+  "bugs": {
+    "url": "https://github.com/unliar/node-jsonp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:unliar/node-jsonp.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
