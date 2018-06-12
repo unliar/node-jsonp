@@ -1,7 +1,7 @@
 {
-  "name": "nodejsonp",
+  "name": "@unliar/node-jsonp",
   "version": "1.0.0",
-  "description": "nodejs parse jsonp data",
+  "description": "用于解析或者直接从接口获取jsonp数据--nodejs parse jsonp data",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
